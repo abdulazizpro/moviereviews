@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "100644"]
+	url = https://github.com/abdulazizpro/moviereviws.git
+	fetch = +refs/heads/*:refs/remotes/100644/*
